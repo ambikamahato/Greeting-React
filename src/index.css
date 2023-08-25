@@ -1,0 +1,31 @@
+*{
+  padding:  0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #add1db;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  width: 450px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #f3ede8;
+  box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.3);
+}
+span{
+  background: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+}
